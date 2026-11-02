@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 3
+  key: "recovery_dashboard_signature_key_2026"
+  name: "recovery_admin_cookie"
+
+credentials:
+  usernames:
+    saiful:
+      email: "admin@example.com"
+      name: "Saiful"
+      password: "$2b$12$TejkeGxfYEC0qjJe2sV6gOaid2hJSmIgKW8oxLXzIPWytJRURxLBC"
+      roles:
+        - admin

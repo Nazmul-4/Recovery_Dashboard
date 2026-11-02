@@ -1,0 +1,79 @@
+{
+  "saiful": {
+    "name": "Saiful (Admin)",
+    "agent_name": "Saiful",
+    "role": "admin",
+    "hashed_pw": "$2b$12$TejkeGxfYEC0qjJe2sV6gOaid2hJSmIgKW8oxLXzIPWytJRURxLBC",
+    "active": true
+  },
+  "@shifat_erin-recovery_01": {
+    "name": "shifat",
+    "agent_name": "shifat",
+    "role": "agent",
+    "hashed_pw": "$2b$12$C991twzRWwS3Sui6Wr32beTTx6Dw1.XEExw21cHNiuOQvaPqP32jy",
+    "active": true
+  },
+  "@sourav_erin-recovery_02": {
+    "name": "Sourav",
+    "agent_name": "Sourav",
+    "role": "agent",
+    "hashed_pw": "$2b$12$FU4zGHi/5z319H9HRf4fneJmYVIqwMWyrbemDnINe/gVvAIEbymP.",
+    "active": true
+  },
+  "@nourin_erin-recovery_03": {
+    "name": "Nourin",
+    "agent_name": "Nourin",
+    "role": "agent",
+    "hashed_pw": "$2b$12$BOv8zpGuY1VuZXPvoadrb.jxA7GI87AdO/K6G3BD2Pn4d9K2vVlee",
+    "active": true
+  },
+  "@mohaiminur_erin-recovery_04": {
+    "name": "Mohaiminur",
+    "agent_name": "Mohaiminur",
+    "role": "agent",
+    "hashed_pw": "$2b$12$yAtwrjVmR5I5xuIYVv/8puz/BCPSulfIEr0y3eUlkvIFd.nt29gd.",
+    "active": true
+  },
+  "@farin_erin-recovery_05": {
+    "name": "Farin",
+    "agent_name": "Farin",
+    "role": "agent",
+    "hashed_pw": "$2b$12$6BRT2EOI2CkvX7.zL8WejeTcZ7tqQbWMkru0C70PFGHahU0hbVCQ2",
+    "active": true
+  },
+  "@monaj_erin-recovery_06": {
+    "name": "Monaj",
+    "agent_name": "Monaj",
+    "role": "agent",
+    "hashed_pw": "$2b$12$epJ9ZhrHEhVwgo3fkKFZo.lCO1xLyrUSpkpssunlqHtx5BZ.U8y8O",
+    "active": true
+  },
+  "@bithi_erin-recovery_07": {
+    "name": "Bithi",
+    "agent_name": "Bithi",
+    "role": "agent",
+    "hashed_pw": "$2b$12$1HPJRgCOZ4V68R2qRdk65uCrm6yIqvn9R2yM5iwvlYDhjxLpUHts.",
+    "active": true
+  },
+  "@jahangir_erin-recovery_08": {
+    "name": "Jahangir",
+    "agent_name": "Jahangir",
+    "role": "agent",
+    "hashed_pw": "$2b$12$tJTQBZ5r9N9xEtgDaIUhheboF95jlo788/xk5YUIckDXqVk7Gl7um",
+    "active": true
+  },
+  "@saiful_erin-recovery_00": {
+    "name": "Saiful",
+    "agent_name": "Saiful",
+    "role": "agent",
+    "hashed_pw": "$2b$12$MO2GOtHcaBO3t6NIgXqrmOSiv2Kxp4qb/4YIo/hJa.9XhzOGkBqGa",
+    "active": true
+  },
+  "sarwar zaman": {
+    "name": "Sarwar",
+    "agent_name": "Sarwar",
+    "role": "supervisor",
+    "hashed_pw": "$2b$12$Z3dj4DQ7rKLmBqPIp6sfv.aiK/hsjOp7BdJYyAT6z7JyJS7AmFJDS",
+    "active": true
+  }
+}
